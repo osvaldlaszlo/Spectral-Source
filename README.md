@@ -9,7 +9,7 @@
 - 📫 How to reach me:
 * Tox: F536F1B2CF2DBCC0C00CE5B4C07682DFCD9A907E1049BC656E642B6A6583D977E0D58F4F77D0
 <div align="center">
-    <img src="https://github.com/Spectral-Source/Spectral-Source/assets/137928993/3137ca9c-36e8-4631-bb98-1ff90304ba2c" width="100" height="100"> ‎ ‎‎
+    <img src="https://github.com/Spectral-Source/Spectral-Source/assets/137928993/3137ca9c-36e8-4631-bb98-1ff90304ba2c" width="150" height="150"> ‎ ‎‎
 </div>
 
 
