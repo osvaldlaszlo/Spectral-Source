@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://raw.githubusercontent.com/Spectral-Source/Spectral-Source/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
   ![Visitor Count](https://profile-counter.glitch.me/Spectral-Source/count.svg)  
 
